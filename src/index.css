@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+@theme {
+  --color-vbestRed: #C51C1E;
+  --color-vbestGrey: #53565A;
+}
